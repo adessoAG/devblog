@@ -479,3 +479,12 @@ thorbolo:
   bio: "Thorben Schiller ist Senior Software Engineer und hat seit 2013 bei adesso den Weg vom Studenten zum angehenden Software Architekten gemacht. Sein Schwerpunkt liegt im Java-Backend."
   avatar_url: /assets/images/avatars/thorbenschiller.jpg
   github: https://github.com/thorbolo
+
+felix_marezki:
+  first_name: Felix
+  last_name: Marezki
+  github_username: reenigneEsrever92
+  email: felix.marezki@adesso.de
+  bio: "Felix Marezki is a Fullstack Developer at adesso SE with a Java foundation and strong insterests in alternative technologies espacially Rust."
+  avatar_url: /assets/images/avatars/felix_marezki.jpg
+  github: https://github.com/reenigneEsrever92
