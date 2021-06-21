@@ -479,3 +479,12 @@ thorbolo:
   bio: "Thorben Schiller ist Senior Software Engineer und hat seit 2013 bei adesso den Weg vom Studenten zum angehenden Software Architekten gemacht. Sein Schwerpunkt liegt im Java-Backend."
   avatar_url: /assets/images/avatars/thorbenschiller.jpg
   github: https://github.com/thorbolo
+
+tgraefenstein:
+  first_name: Thomas
+  last_name: Gräfenstein
+  email: thomas.graefenstein@adesso.de
+  bio: "Thomas Gräfenstein ist Fullstack Senior Software Engineer im Bereich Cross Industries und E-Mobility."
+  avatar_url: /assets/images/avatars/tgraefenstein.jpg
+  github_username: g-stone7
+  github: https://github.com/g-stone7
