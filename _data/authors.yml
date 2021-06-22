@@ -479,3 +479,11 @@ thorbolo:
   bio: "Thorben Schiller ist Senior Software Engineer und hat seit 2013 bei adesso den Weg vom Studenten zum angehenden Software Architekten gemacht. Sein Schwerpunkt liegt im Java-Backend."
   avatar_url: /assets/images/avatars/thorbenschiller.jpg
   github: https://github.com/thorbolo
+parideis:
+  first_name: Denis
+  last_name: Paris
+  github_username: parideis
+  email: denis.paris@adesso.de
+  bio: "Denis Paris arbeitet bei adesso als Werkstudent in Köln und entwickelt Full-Stack JavaScript Applikationen. Er hat Erfahrung mit Angular, React, Stencil, Svelte und Vue gesammelt. In seiner Freizeit spielt er gerne Basketball 🏀 und hält JavaScript Vorträge auf Meetups und Konferenzen."
+  avatar_url: /assets/images/avatars/paris.jpg
+  github: https://github.com/parideis
