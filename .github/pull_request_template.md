@@ -10,6 +10,8 @@ Wenn du einen Pull-Request stellst, teile uns bitte deine Änderungen mit, indem
     - [ ] "author" angegeben
     - [ ] "categories" enthält maximal eine der Hauptkategorien (Methodik, Architekturen, Softwareentwicklung, Branchen, Inside adesso)
     - [ ] "tags" enthält (beliebige) passende Tags
+  - [ ] Der blogpost-checker hat die Richtigkeit der Metadaten bestätigt (siehe CI Check)
+
 - **Text** (abzuhaken durch den Autor)
   - [ ] [Teaser entspricht den Vorgaben](https://github.com/adessoAG/devblog/blob/master/examples/2017-08-10-blog-post-guide.md#einleitung--teaser)
   - [ ] Rechtschreibung korrigiert
@@ -19,6 +21,7 @@ Wenn du einen Pull-Request stellst, teile uns bitte deine Änderungen mit, indem
   - [ ] Code-Snippets wurden mit [Syntax Highlighting](https://github.com/adessoAG/devblog/blob/master/examples/2017-08-10-blog-post-guide.md#syntax-highlighting) versehen
   - [ ] Der Artikel wurde in der [Vorschau](https://github.com/adessoAG/devblog/blob/master/examples/2017-08-10-blog-post-guide.md#online-preview) geprüft 
   - [ ] Auf gendergerechte Formulierungen wurde geachtet
+
 - **Review** (abzuhaken durch den Reviewer)
   - [ ] Rechtschreibung korrigiert
   - [ ] Der Artikel wurde in der [Vorschau](https://github.com/adessoAG/devblog/blob/master/examples/2017-08-10-blog-post-guide.md#online-preview) geprüft 
