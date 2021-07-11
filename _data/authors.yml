@@ -479,3 +479,12 @@ thorbolo:
   bio: "Thorben Schiller ist Senior Software Engineer und hat seit 2013 bei adesso den Weg vom Studenten zum angehenden Software Architekten gemacht. Sein Schwerpunkt liegt im Java-Backend."
   avatar_url: /assets/images/avatars/thorbenschiller.jpg
   github: https://github.com/thorbolo
+
+fabianvolkert:
+  first_name: Fabian
+  last_name: Volkert
+  github_username: VolkertF
+  email: fabian.volkert@adesso.de
+  bio: "Fabian Volkert ist seit 2020 Software Developer bei adesso. Die ersten Berührungspunkte mit Kotlin hatte er 2019 in seiner Masterarbeit und programmierte in dieser Sprache anschließend auch in einem Projekt im E-Commerce."
+  avatar_url: /assets/images/avatars/fabianvolkert.png
+  github: https://github.com/VolkertF
